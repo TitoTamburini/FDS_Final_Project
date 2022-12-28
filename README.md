@@ -10,5 +10,5 @@ The project involves analyzing transactions and classifying them into fraudulent
 
 ### Used tools:
 
->- python libraries: panads, sickit learn, matplotlib.pyplot;
+>- python libraries: pandas, scikit learn, matplotlib.pyplot;
 >- jupyter notebook.
